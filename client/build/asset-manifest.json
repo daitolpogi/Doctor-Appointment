@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b9e289d2.css",
+    "main.js": "/static/js/main.a8b1ef72.js",
+    "static/js/453.f509fd63.chunk.js": "/static/js/453.f509fd63.chunk.js",
+    "static/media/nodado.jpg": "/static/media/nodado.8ac6dcacd7cc2c4e9b70.jpg",
+    "index.html": "/index.html",
+    "main.b9e289d2.css.map": "/static/css/main.b9e289d2.css.map",
+    "main.a8b1ef72.js.map": "/static/js/main.a8b1ef72.js.map",
+    "453.f509fd63.chunk.js.map": "/static/js/453.f509fd63.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9e289d2.css",
+    "static/js/main.a8b1ef72.js"
+  ]
+}
